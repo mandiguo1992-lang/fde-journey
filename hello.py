@@ -1,0 +1,1 @@
+﻿print("HELLO, FDE Journey!")

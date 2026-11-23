@@ -1,2 +1,1 @@
-﻿print("Hello from local")
-print("Edited on GitHub web")
+print("Hello from local and GitHub")

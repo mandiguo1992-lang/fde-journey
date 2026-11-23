@@ -1,2 +1,2 @@
-﻿print("HELLO, FDE Journey!")
+﻿print("Hello from GitHub web")
 print("Edited on GitHub web")
